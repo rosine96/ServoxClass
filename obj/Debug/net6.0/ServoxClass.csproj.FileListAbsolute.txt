@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\ServoxClass\bin\Debug\net6.0\ServoxClass.exe
+C:\Users\DELL\Documents\ServoxClass\bin\Debug\net6.0\ServoxClass.deps.json
+C:\Users\DELL\Documents\ServoxClass\bin\Debug\net6.0\ServoxClass.runtimeconfig.json
+C:\Users\DELL\Documents\ServoxClass\bin\Debug\net6.0\ServoxClass.dll
+C:\Users\DELL\Documents\ServoxClass\bin\Debug\net6.0\ServoxClass.pdb
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\ServoxClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\ServoxClass.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\ServoxClass.AssemblyInfo.cs
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\ServoxClass.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\ServoxClass.dll
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\refint\ServoxClass.dll
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\ServoxClass.pdb
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\ServoxClass.genruntimeconfig.cache
+C:\Users\DELL\Documents\ServoxClass\obj\Debug\net6.0\ref\ServoxClass.dll
